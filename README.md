@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mekimy
+- 👀 I’m interested in Java, Golang, Php, C/C++
+- 💞️ I’m looking to collaborate on project using the languages above
+- 📫 Contact me: meitskimy@gmail.com
